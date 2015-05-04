@@ -5,7 +5,7 @@
 
   "description": "Ippatsu extension",
   "icons": {
-    "16": "icon19.png"
+    "16": "icon.png"
   },
 
   "browser_action": {
