@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "myEx2",
+  "name": "Ippatsu",
   "version": "1.0",
 
-  "description": "My first extension.",
+  "description": "Ippatsu extension",
   "icons": {
     "16": "icon19.png"
   },
@@ -15,5 +15,5 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "permissions": ["tabs", "http://*/*"]
+  "permissions": ["tabs", "http://www.xvideos.com/*", "http://jp.xvideos.com/*"]
 }
