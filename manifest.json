@@ -1,10 +1,8 @@
 {
-  // Require!
   "manifest_version": 2,
   "name": "myEx2",
   "version": "1.0",
 
-  // Recommend.
   "description": "My first extension.",
   "icons": {
     "16": "icon19.png"
@@ -12,7 +10,6 @@
 
   "browser_action": {
     "default_icon": "icon19.png"
-    //"default_popup": "popup.html"
   },
 
   "background": {
