@@ -1,1 +1,2 @@
 ## Ippatsu
+- Dopeness chrome extension
